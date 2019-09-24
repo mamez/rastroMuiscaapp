@@ -29067,3 +29067,7 @@ page-home h1 {
   font-weight: 800;
   color: #FFFFFF;
 }
+
+page-tips .slide-zoom {
+  height: 100%;
+}
